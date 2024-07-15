@@ -14,6 +14,7 @@ Unfortunately, YOLOv9 may struggle with detecting and accurately identifying obj
 ### Segment Anything Model
 SAM generates masks automatically, creates segmentation masks using bounding boxes, and converts object detection datasets into segmentation masks. Using the Bounding boxes as parameters, the model takes in the image using in setimage() in a numPy array format. The Model then uses each bounding box to predict and plot the segmentation mask of each object within the bounding boxes. 
 
+## ![Screenshot 2024-07-14 222012](https://github.com/user-attachments/assets/ee85b493-d4cf-4bca-829e-13d34b140b30)
 
 
 
